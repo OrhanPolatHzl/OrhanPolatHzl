@@ -13,15 +13,14 @@ I'm Orhan
 * 🧠 Render engines
 * 🛠️ C++ engine architecture, ECS (Entity Component System) design
 * 🧑‍💻 Software development
-* 
 
 ---
 
 ## 🧰 Tools & Technologies
 
-| 💻 Programming | C++, Python, GLSL |
-| 🎨 Art         | Blender, Unreal Engine, Unity, Custom Tool |
-| ⚙️ Others      | Git, Visual Studio Code, Visual Studio, CMake |
+* 💻 Programming   C++, Python, GLSL 
+* 🎨 Art           Blender, Unreal Engine, Unity, Custom Tool 
+* ⚙️ Others        Git, Visual Studio Code, Visual Studio, CMake 
 
 ---
 
