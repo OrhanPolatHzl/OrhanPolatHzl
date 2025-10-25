@@ -1,8 +1,8 @@
 I'm Orhan
 
-🎨 Passionate about art, computers and software.
-🔊 Currently learning developing software and using various 3d tools.
-💻 I code for fun.
+* 🎨 Passionate about art, computers and software.
+* 🔊 Currently learning developing software and using various 3d tools.
+* 💻 I code for fun.
 
 ---
 
