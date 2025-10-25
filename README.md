@@ -1,9 +1,8 @@
 I'm Orhan
 
-🎨 Passionate about computers and software.
+🎨 Passionate about art, computers and software.
 🔊 Currently learning developing software and using various 3d tools.
 💻 I code for fun.
-🚀 Goal: to create a fully functional and optimized **real-time engine** from scratch.
 
 ---
 
@@ -18,8 +17,8 @@ I'm Orhan
 
 ## 🧰 Tools & Technologies
 
-* 💻 Programming   C++, Python, GLSL 
-* 🎨 Art           Blender, Unreal Engine, Unity, Custom Tool 
+* 💻 Programming   C++, C#, Python, PHP, HTML, 3d graphics APIs
+* 🎨 Art           Blender, Unreal Engine, Houdini, Zbrush, Maya, Cinema 4D, Custom Tools
 * ⚙️ Others        Git, Visual Studio Code, Visual Studio, CMake 
 
 ---
