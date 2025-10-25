@@ -1,16 +1,30 @@
-## Hi there 👋
+I'm Orhan
 
-<!--
-**OrhanPolatHzl/OrhanPolatHzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Passionate about computers and software.
+🔊 Currently learning developing software and using various 3d tools.
+💻 I code for fun.
+🚀 Goal: to create a fully functional and optimized **real-time engine** from scratch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Interests
+
+* 🎮 Real-time physics (XPBD – Extended Position Based Dynamics)
+* 🧠 Render engines
+* 🛠️ C++ engine architecture, ECS (Entity Component System) design
+* 🧑‍💻 Software development
+* 
+
+---
+
+## 🧰 Tools & Technologies
+
+| 💻 Programming | C++, Python, GLSL |
+| 🎨 Art         | Blender, Unreal Engine, Unity, Custom Tool |
+| ⚙️ Others      | Git, Visual Studio Code, Visual Studio, CMake |
+
+---
+
+📫 Contact
+
+hizliorhan126@gmail.com
